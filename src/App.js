@@ -1,12 +1,9 @@
 import React, { useEffect, useState } from 'react';
-
 import Navbar from './components/layout/navbar/Navbar';
 import Footer from './components/layout/footer/Footer';
-
 import Character from './components/character-selector/Character';
 import MovieList from './components/movie-list/MovieList';
 import MovieYear from './components/movie-year/MovieYear';
-
 
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Container from '@material-ui/core/Container';

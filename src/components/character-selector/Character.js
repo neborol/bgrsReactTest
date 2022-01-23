@@ -51,7 +51,7 @@ const Character = ({characters}) => {
         <div className="character-container">
           <h3>Characters:</h3>
           <div>
-              <h5>Select dropdown</h5>
+              <span>Select A Character</span>
             <div>
                 <FormControl variant="outlined" className={classes.formControl}>
                     <InputLabel id="demo-simple-select-outlined-label">Character</InputLabel>
