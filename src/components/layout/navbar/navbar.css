@@ -1,0 +1,24 @@
+.navbar-container {
+    background-color: #09485b;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+.horiz-items-container {
+    display: flex;
+    max-width: 190px;
+    min-width: 190px;
+    flex: 1;
+}
+
+.nav-header {
+    flex: 6;
+    text-align: center;
+    font-size: 1.8rem;
+}
+
+.app-logo {
+    width: 50px;
+    margin: 12px 20px 0 0;
+}

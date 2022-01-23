@@ -1,0 +1,28 @@
+
+.MuiContainer-root {
+  padding: 0 !important;
+}
+
+.MuiContainer-maxWidthXl {
+  max-width: 100% !important;
+}
+
+.navbar-container {
+  padding: 15px;
+}
+
+.main-content {
+  min-height: 600px;
+  padding: 15px;
+  max-width: 400px;
+  width: 100%;
+  margin: 20px auto;
+  border: solid 2px #cccccc;
+}
+
+.spinner-container {
+  position: absolute;
+  top: 13%;
+  left: 50%;
+  margin-left: -75px;
+}

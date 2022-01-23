@@ -1,0 +1,6 @@
+.movie-list {
+    border: solid 1px silver;
+    border-radius: 5px;
+    min-width: 300px;
+    max-width: 400px;
+}
